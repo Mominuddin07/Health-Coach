@@ -39,7 +39,7 @@
 
 ## About
 
-PROJECT - Health Coach is a web application designed to assist users with their health journey. It includes:
+Health Coach is a web application designed to assist users with their health journey. It includes:
 
 - A **fully functional chatbot** powered by **IBM Watson** that provides health and fitness advice.
 - A **diet plan** section offering personalized meal plans.
