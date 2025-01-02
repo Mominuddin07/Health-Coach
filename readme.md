@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <a href="https://your-website-link.com/"> Health Coach</a>
+  <a href="https://healthcoachz.netlify.app"> Health Coach</a>
 </h1>
 
 <h3 align="center"></h3>
